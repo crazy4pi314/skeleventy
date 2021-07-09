@@ -1,13 +1,13 @@
 ---
 layout: blog
 meta_title: Blog
-meta_description: The Skeleventy blog - a place to voice our useless opinions.
+meta_description: The Unitary Fund blog
 hide_from_sitemap: true
 robots: noindex,follow
 title: The blog
 eleventyNavigation:
   key: Blog
-  order: 3
+  order: 12
 ---
 
-A place to voice our useless opinions.
+Keep up to date on the latest in the quantum open source community.

@@ -1,9 +1,9 @@
 ---
 layout: page
 meta_title: About
-meta_description: About Skeleventy
+meta_description: About Unitary Fund
 title: About
-sub_heading: Skeleventy is more opinionated than your typical 'barebones' starter kit. It's minimal design is a good basis to build upon for your blog or portfolio.
+sub_heading: Because evolution is unitary.
 eleventyNavigation:
   key: About
   order: 2
